@@ -165,7 +165,11 @@ import torch
 
 # --- Configuration (Switch between models here) ---
 model_name = "mistralai/Mistral-7B-v0.1"
-adapter_path = "mistral-7b-action-extractor-adapter" # UPDATE PATH
+adapter_path = "./adapters/mistral-7b-action-extractor-adapter" # UPDATE PATH
+
+```
+
+---
 
 ### 🔮 Future Vision & Roadmap
 
@@ -194,4 +198,5 @@ Contributions are welcome! Whether it's adding new dialogue data, improving mode
 1.  **Fork** the repository.
 2.  Create a new **feature branch**.
 3.  Commit your changes and open a **Pull Request** with a detailed description.
+
 ---
