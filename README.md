@@ -53,7 +53,7 @@ A head-to-head comparison reveals a clear trade-off between raw power and nimble
 | -----------------------       | ----------------------------     | ---------------------------- |
 | ✅ **JSON Validity**         | **100%** (Perfectly reliable)    | 90.0% (Excellent)            |
 | 🎯**F1-Score** (Accuracy)    | **0.92** (High precision)        | 0.87 (Very strong)           |
-| ⏱️ **Avg. Latency** (T4 GPU) | ~22.7 seconds                    | **~4.2 seconds** (5.4x faster) |
+| ⏱️ **Avg. Latency** (Colab T4 GPU) | ~22.7 seconds                    | **~4.2 seconds** (5.4x faster) |
 | 💾 **Adapter Size**          | ~26 MB                           | ~28-40 MB                    |
 | 🏆 **Best For**              | Critical, high-stakes tasks      | Real-time, speed-sensitive applications |
 
