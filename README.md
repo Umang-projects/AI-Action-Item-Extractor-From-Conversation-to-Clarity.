@@ -1,4 +1,11 @@
-# 📝 AI-Action-Item-Extractor-From-Conversation-to-Clarity.
+# 📝 AI Action Item Extractor: Meeting Dialogue to JSON.
+
+### Project Overview
+Goal: Build a specialized AI model that reads meeting dialogues and extracts action items into a clean, structured JSON format.
+### Value Proposition:
+Transforms unstructured meeting conversations into actionable, trackable tasks.
+Eliminates manual note-taking and follow-up confusion.
+Demonstrates advanced NLP and structured output generation skills.
 
 This project transforms unstructured meeting dialogues into perfectly structured, actionable tasks. By fine-tuning and comparing two powerful language models (**Mistral-7B** and **Phi-4**), this system extracts tasks, owners, and deadlines, outputting them into a clean, machine-readable JSON format.
 
