@@ -31,14 +31,14 @@ Give the model a raw meeting transcript...
 {
   "action_items": [
     {
-      "assignee": "Alex",
+      "owner": "Alex",
       "task": "Gather sales data for Q3 report",
-      "dueDate": "by Friday"
+      "deadline": "by Friday"
     },
     {
-      "assignee": "Maria",
+      "owner": "Maria",
       "task": "Provide marketing metrics for Q3",
-      "dueDate": "end of day Thursday"
+      "deadline": "end of day Thursday"
     }
   ]
 }
